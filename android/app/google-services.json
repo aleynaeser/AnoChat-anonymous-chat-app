@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783021155327",
+    "project_id": "anochat-57bf8",
+    "storage_bucket": "anochat-57bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783021155327:android:305d142ed44df3c199fdca",
+        "android_client_info": {
+          "package_name": "com.aleynaeser.anoChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783021155327-gbkjmcha5o6bf2bmn7k8enp6krlenq9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aleynaeser.anoChat",
+            "certificate_hash": "faac206734dc040f5eddf5dab2c3e45f67676568"
+          }
+        },
+        {
+          "client_id": "783021155327-f37egfu5njb2kuf6mj07jvaf1ufjl8pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZN1ckthOrKuD_K926t3XNBDV6FmB-Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783021155327-f37egfu5njb2kuf6mj07jvaf1ufjl8pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
