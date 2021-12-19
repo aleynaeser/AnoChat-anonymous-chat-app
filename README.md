@@ -2,6 +2,11 @@
 
 It is an anonymous chat app written in Flutter.
 
+## UML Diagram
+
+![umlChatApp](https://user-images.githubusercontent.com/45822686/146674728-241fe933-c127-4180-966f-b96e71feb6ce.png)
+
+
 <h4 align="center">
 1.Login Screen
 </h4> 
